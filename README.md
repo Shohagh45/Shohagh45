@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Solaiman Hossain
 
-I'm a passionate full-stack developer with a strong background in both backend and frontend technologies. I thrive on building scalable applications, intuitive user experiences, and clean design.
+I'm an aspiring full-stack developer currently learning and exploring backend and frontend technologies. I enjoy building small projects, improving my skills, and learning how to create real-world applications step by step.
 
 ---
 
