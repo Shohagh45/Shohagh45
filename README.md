@@ -33,7 +33,7 @@ I'm a passionate full-stack developer with a strong background in both backend a
 ---
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/solaiman-hossain-79b180259/))
+- 🔗 [LinkedIn][((https://www.linkedin.com/in/solaiman-hossain-79b180259/))](https://www.linkedin.com/in/solaiman-hossain-79b180259/)
 
 
 ---
