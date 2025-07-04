@@ -26,7 +26,7 @@ I'm a passionate full-stack developer with experience across a wide array of tec
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link-here) *(Update with your actual link)*
+- 💼 [LinkedIn](https://linkedin.com/in/your-link-here) 
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
