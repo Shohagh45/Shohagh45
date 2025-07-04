@@ -26,13 +26,14 @@ I'm a passionate full-stack developer with a strong background in both backend a
 
 ## 📊 GitHub Stats
 
-![Solaiman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolaimanHossain&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolaimanHossain&layout=compact&hide=html)
+![Shohagh45's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shohagh45&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shohagh45&layout=compact&hide=html)
 
 ---
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/solaiman-hossain-79b180259/))
+- 🔗 [LinkedIn](https://linkedin.com/in/your-link-here)
 
 
 ---
